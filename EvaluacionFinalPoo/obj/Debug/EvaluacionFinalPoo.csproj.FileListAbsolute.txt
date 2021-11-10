@@ -1,0 +1,10 @@
+C:\Users\ronal\Escritorio\EvaluacionFinalPoo\bin\Debug\Practica-3.exe.config
+C:\Users\ronal\Escritorio\EvaluacionFinalPoo\bin\Debug\Practica-3.exe
+C:\Users\ronal\Escritorio\EvaluacionFinalPoo\bin\Debug\Practica-3.pdb
+C:\Users\ronal\Escritorio\EvaluacionFinalPoo\obj\Debug\EvaluacionFinalPoo.csproj.AssemblyReference.cache
+C:\Users\ronal\Escritorio\EvaluacionFinalPoo\obj\Debug\Practica_3.EvaluacionFinalPoo.resources
+C:\Users\ronal\Escritorio\EvaluacionFinalPoo\obj\Debug\Practica_3.Properties.Resources.resources
+C:\Users\ronal\Escritorio\EvaluacionFinalPoo\obj\Debug\EvaluacionFinalPoo.csproj.GenerateResource.cache
+C:\Users\ronal\Escritorio\EvaluacionFinalPoo\obj\Debug\EvaluacionFinalPoo.csproj.CoreCompileInputs.cache
+C:\Users\ronal\Escritorio\EvaluacionFinalPoo\obj\Debug\Practica-3.exe
+C:\Users\ronal\Escritorio\EvaluacionFinalPoo\obj\Debug\Practica-3.pdb
